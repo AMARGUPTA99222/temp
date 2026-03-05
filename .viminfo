@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1772674873,,"wq!"
+|2,0,1772692124,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,34 +25,52 @@
 # Registers:
 
 # File marks:
-'0  1  0  /tmp/crontab.lXIQgD
-|4,48,1,0,1772676614,"/tmp/crontab.lXIQgD"
-'1  1  21  /tmp/crontab.ozQa9G
-|4,49,1,21,1772674873,"/tmp/crontab.ozQa9G"
-'2  1  22  /tmp/crontab.Q5WOJ1
-|4,50,1,22,1772674797,"/tmp/crontab.Q5WOJ1"
-'3  1  17  ~/second
-|4,51,1,17,1772644881,"~/second"
-'4  1  19  ~/first
-|4,52,1,19,1772644820,"~/first"
-'5  7  0  ~/.bash_profile
-|4,53,7,0,1772644167,"~/.bash_profile"
-'6  22  14  ~/.bashrc
-|4,54,22,14,1771964114,"~/.bashrc"
-'7  9  17  ~/.bash_profile
-|4,55,9,17,1771964058,"~/.bash_profile"
+'0  3  26  ~/.git/COMMIT_EDITMSG
+|4,48,3,26,1772692124,"~/.git/COMMIT_EDITMSG"
+'1  1  0  /tmp/crontab.lXIQgD
+|4,49,1,0,1772676614,"/tmp/crontab.lXIQgD"
+'2  1  21  /tmp/crontab.ozQa9G
+|4,50,1,21,1772674873,"/tmp/crontab.ozQa9G"
+'3  1  22  /tmp/crontab.Q5WOJ1
+|4,51,1,22,1772674797,"/tmp/crontab.Q5WOJ1"
+'4  1  17  ~/second
+|4,52,1,17,1772644881,"~/second"
+'5  1  19  ~/first
+|4,53,1,19,1772644820,"~/first"
+'6  7  0  ~/.bash_profile
+|4,54,7,0,1772644167,"~/.bash_profile"
+'7  22  14  ~/.bashrc
+|4,55,22,14,1771964114,"~/.bashrc"
 '8  9  17  ~/.bash_profile
 |4,56,9,17,1771964058,"~/.bash_profile"
-'9  23  15  ~/.bashrc
-|4,57,23,15,1771963928,"~/.bashrc"
+'9  9  17  ~/.bash_profile
+|4,57,9,17,1771964058,"~/.bash_profile"
 
 # Jumplist (newest first):
+-'  3  26  ~/.git/COMMIT_EDITMSG
+|4,39,3,26,1772692124,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1772692109,"~/.git/COMMIT_EDITMSG"
+-'  1  0  /tmp/crontab.lXIQgD
+|4,39,1,0,1772676614,"/tmp/crontab.lXIQgD"
 -'  1  0  /tmp/crontab.lXIQgD
 |4,39,1,0,1772676614,"/tmp/crontab.lXIQgD"
 -'  1  21  /tmp/crontab.ozQa9G
 |4,39,1,21,1772674873,"/tmp/crontab.ozQa9G"
 -'  1  21  /tmp/crontab.ozQa9G
 |4,39,1,21,1772674873,"/tmp/crontab.ozQa9G"
+-'  1  21  /tmp/crontab.ozQa9G
+|4,39,1,21,1772674873,"/tmp/crontab.ozQa9G"
+-'  1  21  /tmp/crontab.ozQa9G
+|4,39,1,21,1772674873,"/tmp/crontab.ozQa9G"
+-'  1  22  /tmp/crontab.Q5WOJ1
+|4,39,1,22,1772674797,"/tmp/crontab.Q5WOJ1"
+-'  1  22  /tmp/crontab.Q5WOJ1
+|4,39,1,22,1772674797,"/tmp/crontab.Q5WOJ1"
+-'  1  22  /tmp/crontab.Q5WOJ1
+|4,39,1,22,1772674797,"/tmp/crontab.Q5WOJ1"
+-'  1  22  /tmp/crontab.Q5WOJ1
+|4,39,1,22,1772674797,"/tmp/crontab.Q5WOJ1"
 -'  1  22  /tmp/crontab.Q5WOJ1
 |4,39,1,22,1772674797,"/tmp/crontab.Q5WOJ1"
 -'  1  22  /tmp/crontab.Q5WOJ1
@@ -77,6 +95,54 @@
 |4,39,1,17,1772644881,"~/second"
 -'  1  17  ~/second
 |4,39,1,17,1772644881,"~/second"
+-'  1  17  ~/second
+|4,39,1,17,1772644881,"~/second"
+-'  1  17  ~/second
+|4,39,1,17,1772644881,"~/second"
+-'  1  17  ~/second
+|4,39,1,17,1772644881,"~/second"
+-'  1  17  ~/second
+|4,39,1,17,1772644881,"~/second"
+-'  1  17  ~/second
+|4,39,1,17,1772644881,"~/second"
+-'  1  17  ~/second
+|4,39,1,17,1772644881,"~/second"
+-'  1  17  ~/second
+|4,39,1,17,1772644881,"~/second"
+-'  1  17  ~/second
+|4,39,1,17,1772644881,"~/second"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
+-'  1  19  ~/first
+|4,39,1,19,1772644820,"~/first"
 -'  1  19  ~/first
 |4,39,1,19,1772644820,"~/first"
 -'  1  19  ~/first
@@ -173,82 +239,22 @@
 |4,39,7,0,1772644167,"~/.bash_profile"
 -'  7  0  ~/.bash_profile
 |4,39,7,0,1772644167,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  9  17  ~/.bash_profile
-|4,39,9,17,1772643361,"~/.bash_profile"
--'  22  14  ~/.bashrc
-|4,39,22,14,1771964114,"~/.bashrc"
--'  22  14  ~/.bashrc
-|4,39,22,14,1771964114,"~/.bashrc"
--'  22  14  ~/.bashrc
-|4,39,22,14,1771964114,"~/.bashrc"
--'  22  14  ~/.bashrc
-|4,39,22,14,1771964114,"~/.bashrc"
--'  22  14  ~/.bashrc
-|4,39,22,14,1771964114,"~/.bashrc"
+-'  7  0  ~/.bash_profile
+|4,39,7,0,1772644167,"~/.bash_profile"
+-'  7  0  ~/.bash_profile
+|4,39,7,0,1772644167,"~/.bash_profile"
+-'  7  0  ~/.bash_profile
+|4,39,7,0,1772644167,"~/.bash_profile"
+-'  7  0  ~/.bash_profile
+|4,39,7,0,1772644167,"~/.bash_profile"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1772692120	0
+	"	3	26
+	.	3	0
+	+	3	0
 
 > /tmp/crontab.lXIQgD
 	*	1772676614	0

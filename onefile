@@ -1,0 +1,234 @@
+Jan 20 12:36:28 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Jan 20 12:36:28 localserver apachectl[16915]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.15. Set the 'ServerName' directive globally to suppress this message
+Jan 20 12:36:28 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Jan 20 15:41:36 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Jan 20 15:41:37 localserver apachectl[76266]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.15. Set the 'ServerName' directive globally to suppress this message
+Jan 20 15:41:37 localserver systemd[1]: apache2.service: Deactivated successfully.
+Jan 20 15:41:37 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+Jan 20 15:41:37 localserver systemd[1]: apache2.service: Consumed 1.093s CPU time, 5.9M memory peak, 0B memory swap peak.
+-- Boot 5583abc12325486b8aadc725c3de58e6 --
+Jan 20 15:42:06 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Jan 20 15:42:07 localserver apachectl[1055]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.15. Set the 'ServerName' directive globally to suppress this message
+Jan 20 15:42:07 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Jan 20 15:58:30 localserver apachectl[8800]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.15. Set the 'ServerName' directive globally to suppress this message
+Jan 20 15:58:30 localserver apachectl[8800]: httpd (no pid file) not running
+Jan 20 15:58:30 localserver systemd[1]: apache2.service: Deactivated successfully.
+-- Boot c4dcb8d9c463487eb68c946d3fdff1f6 --
+Jan 20 15:59:50 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Jan 20 15:59:50 localserver apachectl[947]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.15. Set the 'ServerName' directive globally to suppress this message
+Jan 20 15:59:51 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Jan 20 18:43:45 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Jan 20 18:43:46 localserver apachectl[79426]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.15. Set the 'ServerName' directive globally to suppress this message
+Jan 20 18:43:46 localserver systemd[1]: apache2.service: Deactivated successfully.
+Jan 20 18:43:46 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+Jan 20 18:43:46 localserver systemd[1]: apache2.service: Consumed 1.261s CPU time, 8.2M memory peak, 0B memory swap peak.
+-- Boot fe10cda9fe4d42199b5a81091ec1a663 --
+Jan 29 23:46:48 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Jan 29 23:46:55 localserver apachectl[1074]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.15. Set the 'ServerName' directive globally to suppress this message
+Jan 29 23:46:55 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Jan 30 00:00:02 localserver systemd[1]: Reloading apache2.service - The Apache HTTP Server...
+Jan 30 00:00:02 localserver apachectl[2179]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:57c6:5f45:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Jan 30 00:00:02 localserver systemd[1]: Reloaded apache2.service - The Apache HTTP Server.
+Jan 30 00:00:29 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Jan 30 00:00:30 localserver apachectl[2447]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:57c6:5f45:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Jan 30 00:00:30 localserver systemd[1]: apache2.service: Deactivated successfully.
+Jan 30 00:00:30 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+-- Boot 5443b30e51564708b87989180fa209e0 --
+Jan 30 00:02:54 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Jan 30 00:02:54 localserver apachectl[1305]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+Jan 30 00:02:54 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Jan 30 00:05:56 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Jan 30 00:05:57 localserver apachectl[2051]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+Jan 30 00:05:57 localserver systemd[1]: apache2.service: Deactivated successfully.
+Jan 30 00:05:57 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+-- Boot 20b7eece62914c60833dff0616954d90 --
+Jan 30 00:08:19 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Jan 30 00:08:19 localserver apachectl[1314]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+Jan 30 00:08:19 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Jan 30 00:10:12 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Jan 30 00:10:12 localserver apachectl[2035]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+Jan 30 00:10:12 localserver systemd[1]: apache2.service: Deactivated successfully.
+Jan 30 00:10:12 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+-- Boot 75c0e0ffdba64f60a9967b50b18178d1 --
+Jan 30 00:14:58 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Jan 30 00:14:58 localserver apachectl[1305]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+Jan 30 00:14:58 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Jan 30 00:23:14 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Jan 30 00:23:15 localserver apachectl[2169]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+Jan 30 00:23:15 localserver systemd[1]: apache2.service: Deactivated successfully.
+Jan 30 00:23:15 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+-- Boot d2b14d16df13470e98f1682889e62621 --
+Jan 30 00:23:40 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Jan 30 00:23:40 localserver apachectl[1256]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.142.146.62. Set the 'ServerName' directive globally to suppress this message
+Jan 30 00:23:40 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Jan 31 00:17:43 localserver systemd[1]: Reloading apache2.service - The Apache HTTP Server...
+Jan 31 00:17:43 localserver apachectl[33161]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using fe80::20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Jan 31 00:17:43 localserver systemd[1]: Reloaded apache2.service - The Apache HTTP Server.
+Feb 25 01:23:12 localserver systemd[1]: Reloading apache2.service - The Apache HTTP Server...
+Feb 25 01:23:24 localserver apachectl[33810]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:ac95:9e63:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Feb 25 01:23:24 localserver systemd[1]: Reloaded apache2.service - The Apache HTTP Server.
+Feb 25 01:34:08 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Feb 25 01:34:14 localserver apachectl[35917]: AH00557: apache2: apr_sockaddr_info_get() failed for localserver
+Feb 25 01:34:14 localserver apachectl[35917]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+Feb 25 01:34:17 localserver apachectl[36021]: AH00557: apache2: apr_sockaddr_info_get() failed for localserver
+Feb 25 01:34:17 localserver apachectl[36021]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+Feb 25 01:34:18 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Feb 25 01:41:27 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Feb 25 01:41:28 localserver apachectl[42768]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:c0c8:cc23:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Feb 25 01:41:28 localserver systemd[1]: apache2.service: Deactivated successfully.
+Feb 25 01:41:28 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+Feb 25 01:41:28 localserver systemd[1]: apache2.service: Consumed 1.471s CPU time, 5.6M memory peak, 0B memory swap peak.
+Feb 25 01:41:28 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Feb 25 01:41:29 localserver apachectl[42774]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:c0c8:cc23:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Feb 25 01:41:29 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Feb 25 01:44:07 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Feb 25 01:44:07 localserver apachectl[44052]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:c0c8:cc23:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Feb 25 01:44:08 localserver systemd[1]: apache2.service: Deactivated successfully.
+Feb 25 01:44:08 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+Feb 25 01:44:08 localserver systemd[1]: apache2.service: Consumed 1.236s CPU time, 5.7M memory peak, 0B memory swap peak.
+Feb 25 01:44:08 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Feb 25 01:44:08 localserver apachectl[44074]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:c0c8:cc23:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Feb 25 01:44:09 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Feb 25 02:33:34 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Feb 25 02:33:37 localserver apachectl[45069]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:c0c8:cc23:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Feb 25 02:33:37 localserver systemd[1]: apache2.service: Deactivated successfully.
+Feb 25 02:33:37 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+Feb 25 02:33:37 localserver systemd[1]: apache2.service: Consumed 3.217s CPU time.
+-- Boot a3ab891135124be9b20e12310d24a53d --
+Mar 04 22:15:08 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Mar 04 22:15:09 localserver apachectl[1147]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.179.238.62. Set the 'ServerName' directive globally to suppress this message
+Mar 04 22:15:09 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Mar 04 22:17:17 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Mar 04 22:17:18 localserver apachectl[2006]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:57c5:a749:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 04 22:17:18 localserver systemd[1]: apache2.service: Deactivated successfully.
+Mar 04 22:17:18 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+-- Boot 84dbdab6f57944d8b06af19278c026b1 --
+Mar 05 12:28:39 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Mar 05 12:28:40 localserver apachectl[1007]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.0.153. Set the 'ServerName' directive globally to suppress this message
+Mar 05 12:28:40 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Mar 05 18:52:52 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Mar 05 18:52:54 localserver apachectl[156132]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.17. Set the 'ServerName' directive globally to suppress this message
+Mar 05 18:52:54 localserver systemd[1]: apache2.service: Deactivated successfully.
+Mar 05 18:52:54 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+Mar 05 18:52:54 localserver systemd[1]: apache2.service: Consumed 2.464s CPU time, 8.2M memory peak, 0B memory swap peak.
+-- Boot d5b2035718384ab88e4361f87ad22a59 --
+Mar 06 08:22:56 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Mar 06 08:22:58 localserver apachectl[1013]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.243.72.62. Set the 'ServerName' directive globally to suppress this message
+Mar 06 08:22:58 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Mar 06 08:37:04 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Mar 06 08:37:04 localserver apachectl[4522]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:c083:a3db:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 06 08:37:05 localserver systemd[1]: apache2.service: Deactivated successfully.
+Mar 06 08:37:05 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+-- Boot 48de3295587541ed9fab738e6bcc05d8 --
+Mar 06 15:44:53 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Mar 06 15:44:55 localserver apachectl[911]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.0.153. Set the 'ServerName' directive globally to suppress this message
+Mar 06 15:44:55 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Mar 06 15:48:27 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Mar 06 15:48:27 localserver apachectl[2235]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.0.153. Set the 'ServerName' directive globally to suppress this message
+Mar 06 15:48:27 localserver systemd[1]: apache2.service: Deactivated successfully.
+Mar 06 15:48:27 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+-- Boot b2b123f7df7e4ab5804553715914a6b0 --
+Mar 26 22:01:52 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Mar 26 22:01:56 localserver apachectl[914]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:5603:5458:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 26 22:01:56 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Mar 26 22:01:57 localserver systemd[1]: Reloading apache2.service - The Apache HTTP Server...
+Mar 26 22:01:59 localserver apachectl[1230]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:5603:5458:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 26 22:01:59 localserver systemd[1]: Reloaded apache2.service - The Apache HTTP Server.
+Mar 26 22:45:38 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Mar 26 22:45:38 localserver apachectl[8763]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:5603:5458:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 26 22:45:38 localserver systemd[1]: apache2.service: Deactivated successfully.
+Mar 26 22:45:38 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+Mar 26 22:45:38 localserver systemd[1]: apache2.service: Consumed 1.018s CPU time, 10.0M memory peak, 0B memory swap peak.
+Mar 26 22:45:38 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Mar 26 22:45:39 localserver apachectl[8837]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:5603:5458:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 26 22:45:39 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Mar 26 23:41:37 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Mar 26 23:41:39 localserver apachectl[27049]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:5603:5458:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 26 23:41:40 localserver systemd[1]: apache2.service: Deactivated successfully.
+Mar 26 23:41:40 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+-- Boot 8bf5f1bcd1e04481b3b8b7c09bef6d8f --
+Mar 26 23:44:16 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Mar 26 23:44:18 localserver apachectl[998]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.69.167.62. Set the 'ServerName' directive globally to suppress this message
+Mar 26 23:44:18 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Mar 27 00:00:05 localserver systemd[1]: Reloading apache2.service - The Apache HTTP Server...
+Mar 27 00:00:06 localserver apachectl[10843]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:5603:5458:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 27 00:00:06 localserver systemd[1]: Reloaded apache2.service - The Apache HTTP Server.
+Mar 27 02:26:41 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Mar 27 02:26:42 localserver apachectl[101738]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:5603:5458:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 27 02:26:43 localserver systemd[1]: apache2.service: Deactivated successfully.
+Mar 27 02:26:43 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+Mar 27 02:26:43 localserver systemd[1]: apache2.service: Consumed 1.713s CPU time, 8.3M memory peak, 2.0M memory swap peak.
+-- Boot 5e232790a41044f5966de276d6b431be --
+Mar 27 12:51:42 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Mar 27 12:51:43 localserver apachectl[934]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.221.62. Set the 'ServerName' directive globally to suppress this message
+Mar 27 12:51:44 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+-- Boot 3f3178c4ceda44079f7cdec82b5e0dda --
+Mar 30 20:05:38 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Mar 30 20:05:39 localserver apachectl[1002]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.177.29.62. Set the 'ServerName' directive globally to suppress this message
+Mar 30 20:05:39 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Mar 30 20:53:51 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Mar 30 20:53:52 localserver apachectl[42295]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:c097:38a0:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 30 20:53:53 localserver systemd[1]: apache2.service: Deactivated successfully.
+Mar 30 20:53:53 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+Mar 30 20:53:53 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Mar 30 20:53:53 localserver apachectl[42537]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:c097:38a0:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 30 20:53:53 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Mar 30 20:54:18 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Mar 30 20:54:19 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Mar 30 20:54:19 localserver apachectl[43940]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:c097:38a0:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 30 20:54:19 localserver apachectl[43979]: AH00557: apache2: apr_sockaddr_info_get() failed for localserver
+Mar 30 20:54:19 localserver apachectl[43979]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+Mar 30 20:55:57 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Mar 30 20:55:58 localserver apachectl[51661]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:c097:38a0:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 30 20:55:58 localserver systemd[1]: apache2.service: Deactivated successfully.
+Mar 30 20:55:58 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+Mar 30 20:55:58 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Mar 30 20:55:58 localserver apachectl[51675]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:c097:38a0:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 30 20:55:58 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Mar 30 22:51:00 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Mar 30 22:51:11 localserver apachectl[134428]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:57a7:eb85:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 30 22:51:11 localserver systemd[1]: apache2.service: Deactivated successfully.
+Mar 30 22:51:11 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+-- Boot c14b7085d8c042b1987bf527f28a3dc3 --
+Mar 30 23:09:30 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Mar 30 23:09:32 localserver apachectl[978]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using fe80::20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 30 23:09:32 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Mar 30 23:15:37 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Mar 30 23:15:37 localserver apachectl[2361]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:ad30:8b37:20c:29ff:feda:b17e. Set the 'ServerName' directive globally to suppress this message
+Mar 30 23:15:37 localserver systemd[1]: apache2.service: Deactivated successfully.
+Mar 30 23:15:37 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+-- Boot de2f96ce271e4399a439147324885e6f --
+Mar 30 23:27:05 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Mar 30 23:27:05 localserver apachectl[1284]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.170.35.62. Set the 'ServerName' directive globally to suppress this message
+Mar 30 23:27:05 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Mar 31 00:00:00 localserver systemd[1]: Reloading apache2.service - The Apache HTTP Server...
+Mar 31 00:00:00 localserver apachectl[26599]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:ad30:8b37:250:56ff:fe21:3596. Set the 'ServerName' directive globally to suppress this message
+Mar 31 00:00:00 localserver systemd[1]: Reloaded apache2.service - The Apache HTTP Server.
+Mar 31 03:29:04 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Mar 31 03:29:04 localserver apachectl[94386]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:ad30:8b37:250:56ff:fe21:3596. Set the 'ServerName' directive globally to suppress this message
+Mar 31 03:29:05 localserver systemd[1]: apache2.service: Deactivated successfully.
+Mar 31 03:29:05 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+Mar 31 03:29:05 localserver systemd[1]: apache2.service: Consumed 1.382s CPU time, 8.0M memory peak, 2.8M memory swap peak.
+-- Boot 7df648ac29174ee1ae678f98792be681 --
+Apr 01 00:12:55 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Apr 01 00:12:57 localserver apachectl[989]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.134.74.146. Set the 'ServerName' directive globally to suppress this message
+Apr 01 00:12:57 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Apr 01 00:48:52 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Apr 01 00:48:59 localserver apachectl[11635]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:acb0:d429:250:56ff:fe21:3596. Set the 'ServerName' directive globally to suppress this message
+Apr 01 00:48:59 localserver systemd[1]: apache2.service: Deactivated successfully.
+Apr 01 00:48:59 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+-- Boot 90db957af81744c8be7636ddccd8d0aa --
+Apr 01 00:49:29 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Apr 01 00:49:30 localserver apachectl[967]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.205.92.146. Set the 'ServerName' directive globally to suppress this message
+Apr 01 00:49:30 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Apr 01 02:09:03 localserver systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Apr 01 02:09:04 localserver apachectl[38721]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:acb0:d429:250:56ff:fe21:3596. Set the 'ServerName' directive globally to suppress this message
+Apr 01 02:09:04 localserver systemd[1]: apache2.service: Deactivated successfully.
+Apr 01 02:09:04 localserver systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+-- Boot 660a07a3904b4139ba8a785e63a3925f --
+Apr 01 18:07:56 localserver systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Apr 01 18:07:59 localserver apachectl[892]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:c0be:9f00:250:56ff:fe21:3596. Set the 'ServerName' directive globally to suppress this message
+Apr 01 18:07:59 localserver systemd[1]: Started apache2.service - The Apache HTTP Server.
+Apr 02 00:00:02 localserver systemd[1]: Reloading apache2.service - The Apache HTTP Server...
+Apr 02 00:00:18 localserver apachectl[115207]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 2401:4900:c0be:9f00:250:56ff:fe21:3596. Set the 'ServerName' directive globally to suppress this message
+Apr 02 00:00:18 localserver systemd[1]: Reloaded apache2.service - The Apache HTTP Server.
